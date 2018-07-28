@@ -1,0 +1,38 @@
+body {
+	background: linear-gradient(#333333,#222222);
+}
+
+.titlebox {
+	background:linear-gradient(to right, rgb(102, 102, 102,1),rgb(102, 102, 102,0));
+	position: relative;
+	width: 60%;
+	left: 20%;
+	top: 15px;
+	padding: 10px;
+	font-size: 18pt;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: "Arial",Arial,sans-serif;
+	border-left: solid 20px #101020;
+}
+
+.bodybox {
+	background:linear-gradient(to right, rgb(102, 102, 102,1),rgb(102, 102, 102,0));
+	position: relative;
+	width: 60%;
+	left: 20%;
+	top: 15px;
+	padding: 10px;
+	font-size: 12pt;
+	color: #FFFFFF;
+	font-family: "Arial",Arial,sans-serif;
+	border-left: solid 20px #101020;
+}
+
+.menuitems{
+	font-size: 14pt;
+	color: #FFFFFF;
+	background: #444444;
+	padding: 8px;
+	width: 100%;
+}
